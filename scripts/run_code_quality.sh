@@ -8,4 +8,4 @@ flake8 . --config .flake8
 
 isort . --color --check
 
-pylint toydet
+pylint package
